@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
           <div className="hero-image">
             <img 
-              src="/assets/images/celulares-1.png" 
+              src="assets/images/celulares-1.png" 
               alt="Dispositivos móviles mostrando diseño web" 
             />
           </div>

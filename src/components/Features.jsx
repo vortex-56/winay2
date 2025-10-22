@@ -6,19 +6,19 @@ const Features = () => {
     {
       id: 1,
       title: 'GESTIÓN DE CAMPAÑAS AVANZADAS (Ads)',
-      image: '/assets/images/cu1.jpg',
+      image: 'assets/images/cu1.jpg',
       link: 'https://wa.link/k13h98'
     },
     {
       id: 2,
       title: 'DESARROLLO WEB',
-      image: '/assets/images/cu2.jpg',
+      image: 'assets/images/cu2.jpg',
       link: 'https://wa.link/k13h98'
     },
     {
       id: 3,
       title: 'CHATBOT INTEGRADO CON IA',
-      image: '/assets/images/cu3.jpg',
+      image: 'assets/images/cu3.jpg',
       link: 'https://wa.link/k13h98'
     }
   ]
